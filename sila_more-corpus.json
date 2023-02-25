@@ -1,0 +1,38 @@
+{
+	"name": "sila_more",
+	"title": "戒律書畾",
+	"bits":[ 7, 10, 5, 8 ],
+	"toc":"h0",
+	"external": {
+		"footnotes": "s.json"
+	},
+	"rendClass": [
+		"kai",
+		"b",
+		"tag",
+		"l",
+		"je",
+		"le",
+		"xa",
+		"wi",
+		"pe",
+		"zi",
+		"by",
+		"bf",
+		"bz",
+		"ask",
+		"rep",
+		"si",
+		"sr",
+		"year",
+		"h0",
+		"book",
+		"sarticle",
+		"va",
+		"eng",
+		"talk"
+	],
+	"files": [
+		"ok.xml"
+	]
+}
