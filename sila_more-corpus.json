@@ -7,6 +7,8 @@
 		"footnotes": "s.json"
 	},
 	"rendClass": [
+		"little",
+		"hr",
 		"kai",
 		"b",
 		"tag",
@@ -33,6 +35,8 @@
 		"talk"
 	],
 	"files": [
-		"ok.xml"
+		"ok1.xml",
+		"ok2.xml.xml.xml",
+		"ok3.xml"
 	]
 }
